@@ -26,7 +26,7 @@
 参考：https://zhuanlan.zhihu.com/p/69606875
 
 - Beta分布特点
-> Beta分布的PDF可以是钟形曲线、严格递增或递减甚至是直线以及渐近末端的U形曲线。当改变 $ \alpha 和 \beta $ 的取值时，PDF曲线的形状会发生变化，如图所示https://github.com/ShaoQiBNU/Bandit_notes/blob/main/bandit.ipynb：
+> Beta分布的PDF可以是钟形曲线、严格递增或递减甚至是直线以及渐近末端的U形曲线。当改变 $$ \alpha 和 \beta $$ 的取值时，PDF曲线的形状会发生变化，如图所示https://github.com/ShaoQiBNU/Bandit_notes/blob/main/bandit.ipynb：
 
 - 当 $ \alpha <1, \beta < 1 $ 时，Beta的pdf为U型曲线；
 
