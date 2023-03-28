@@ -135,6 +135,7 @@ scipy的beta教程：https://docs.scipy.org/doc/scipy/reference/generated/scipy.
 > 设定发送/曝光阈值，在冷启阶段的所有物品随机分发，度过冷启阶段后，按照如下公式计算得到物品的收益，基于该指标排序分发。
 
 $$ x_{j} + \sqrt{\frac{2lnt}{T_{j}}} $$
+
 $$ x_{j}是物品的平均收益，t是目前试验次数，T_{j}是该物品试验次数 $$
 
 
