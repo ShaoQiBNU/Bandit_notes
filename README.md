@@ -30,9 +30,9 @@
 
 - 当 $$\alpha <1, \beta < 1$$ 时，Beta的pdf为U型曲线；
 
-- 当 $ \alpha =1, \beta = 1 $ 时，Beta的pdf为均匀分布；
+- 当 $$\alpha =1, \beta = 1$$ 时，Beta的pdf为均匀分布；
 
-- 当 $ \alpha 和 \beta $ 大致相等时，Beta的pdf近似正态分布；
+- 当 $\alpha 和 \beta$ 大致相等时，Beta的pdf近似正态分布；
 
 - 当 $ \alpha + \beta $ 越大，Beta的pdf分布曲线越窄，即越集中；依据此概率分布产生的随机数越接近中心位置；
 
