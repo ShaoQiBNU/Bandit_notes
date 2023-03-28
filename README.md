@@ -28,11 +28,11 @@
 - Beta分布特点
 > Beta分布的PDF可以是钟形曲线、严格递增或递减甚至是直线以及渐近末端的U形曲线。当改变 $\alpha和\beta$ 的取值时，PDF曲线的形状会发生变化，如图所示https://github.com/ShaoQiBNU/Bandit_notes/blob/main/bandit.ipynb：
 
-- 当$\alpha <1, \beta < 1$时，Beta的pdf为U型曲线；
+- 当 $\alpha <1, \beta < 1$ 时，Beta的pdf为U型曲线；
 
-- 当$\alpha =1, \beta = 1$时，Beta的pdf为均匀分布；
+- 当 $\alpha =1, \beta = 1$ 时，Beta的pdf为均匀分布；
 
-- 当$\alpha 和 \beta$大致相等时，Beta的pdf近似正态分布；
+- 当 $\alpha 和 \beta$ 大致相等时，Beta的pdf近似正态分布；
 
 - 当$\alpha + \beta$越大，Beta的pdf分布曲线越窄，即越集中；依据此概率分布产生的随机数越接近中心位置；
 
