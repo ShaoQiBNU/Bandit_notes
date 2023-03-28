@@ -125,7 +125,7 @@ scipy的beta教程：https://docs.scipy.org/doc/scipy/reference/generated/scipy.
 
 #### 业界应用
 
-> 从redis里获取物品的 click 和 disClick，然后得到 $\alpha = click + 1, \beta = disClick + 1$，基于 $ Beta(\alpha, \beta)$ 得到随机概率值，按照概率值倒排，进行分发。
+> 从redis里获取物品的 click 和 disClick，然后得到 $\alpha = click + 1, \beta = disClick + 1$，基于 $Beta(\alpha, \beta)$ 得到随机概率值，按照概率值倒排，进行分发。
 
 > 对于流量较大的场景，可以为每个用户保留一套汤普森参数: $\alpha_(i,j) 和 \beta_(i,j)，i代表用户，j代表物品$，共计 2 * M * N 个参数，M是用户数，N是物品数；
 
